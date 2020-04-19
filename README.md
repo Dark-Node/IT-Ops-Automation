@@ -1,11 +1,12 @@
 # IT-Ops Automation : 
 
-### This Respository is Intended to Provide Ansible related Code for AWS(Amazon-Web-Services) and its Services.
-
 <p align="center"
 
  ![ansible](https://user-images.githubusercontent.com/55547108/79690541-9bcfe180-8278-11ea-9cbc-eaf34e6bae62.png)
-  </p>
+
+</p>
+  
+  ### This Repository is Intended to Provide the Installation steps & Ansible roles for AWS(Amazon-Web-Services) and its Services.
 
 #### Roles :
 
