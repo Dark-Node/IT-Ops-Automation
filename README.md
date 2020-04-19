@@ -40,7 +40,7 @@
            $ sudo pip install Ansible           
 ```
 
-#### Once installed you can verify it by using : ```shell Ansible --version```
+#### Once installed you can verify it by using :  ```Ansible --version```
 
 - Python :
 
