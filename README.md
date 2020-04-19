@@ -66,7 +66,7 @@ to perform all the functions. The easiest way is to create a **.boto** file unde
            $ vi .boto
 ```
 
-Then add the following:
+   Then add the following :
 
 ```shell
           [Credentials]
