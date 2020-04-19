@@ -20,7 +20,9 @@
  -   Python
  -   Boto
 
-- Ansible Installation :
+#### Installation :
+
+- Ansible :
 
 >    - Install Ansible on a RHEL/CentOS Linux based system :
 ```shell 
@@ -40,14 +42,14 @@
 
 #### Once installed you can verify it by using : ```shell Ansible --version```
 
-- Python Installation :
+- Python :
 
 ```shell 
            $ sudo apt-get update
            $ sudo apt-get install python3.6
 ```
 
-- Boto Installation : 
+- Boto : 
 
 >    -  First, install pip :
 ```shell   $ sudo apt install python3-pip or
