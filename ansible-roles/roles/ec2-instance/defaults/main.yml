@@ -1,0 +1,26 @@
+---
+# Tags
+ENVIRONMENT: sample
+SERVER_ROLE: sample
+
+# Use inside the tasks
+vpc_name: "{{ VPC_NAME }}"
+vpc_region: "{{ VPC_REGION }}"
+ec2_instance_type: "{{ EC2_INSTANCE_TYPE }}"
+ec2_key_name: "{{ EC2_KEY_NAME }}"
+ec2_security_group_name: "{{ EC2_SECURITY_GROUP_NAME }}"
+ec2_volume_size: "{{ EC2_VOLUME_SIZE }}"
+ec2_count: "{{ EC2_COUNT }}"
+ec2_subnet_id: "{{ EC2_SUBNET_ID }}"
+
+# Variables that can provide as extra vars
+VPC_NAME: test
+VPC_REGION: us-east-1 # N.Virginia
+EC2_INSTANCE_TYPE: t2.micro
+EC2_KEY_NAME: "my-default-key"
+EC2_SECURITY_GROUP_NAME: "test"
+EC2_COUNT: 1
+EC2_VOLUME_SIZE: 8
+EC2_SUBNET_ID: []
+
+
